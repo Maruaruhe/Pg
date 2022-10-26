@@ -16,6 +16,6 @@ int main()
 
 	result = Recursive(n);
 	printf("waaw%d‚ÌŠKæ = % d\n", n, result);
-
+	printf("changed");
 		return 0;
 }
